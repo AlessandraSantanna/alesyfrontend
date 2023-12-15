@@ -1,6 +1,5 @@
 
 - ## Oiii eu sou a Alessandra Santana
-Meu primeiro projeto feito em HTML e CSS
 
 - 👀 Estou iniciando no mundo da programação e dos códigos
 - 🌱 Atualmente venho desenvolvendo pequenos projetos e me aperfeiçoando
@@ -10,6 +9,8 @@ Meu primeiro projeto feito em HTML e CSS
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
+  
+- ## Minhas Habilidades:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
