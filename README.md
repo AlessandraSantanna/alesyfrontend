@@ -1,9 +1,8 @@
 
-- ## Oiii eu sou a Alessandra Santana
+- ## Olá! eu sou a Alessandra Santana
 
-- 👀 Estou iniciando no mundo da programação e dos códigos
-- 🌱 Atualmente venho desenvolvendo pequenos projetos e me aperfeiçoando
-- 💞️ Estou ansiosa para codificar, aprender e desenvolver minhas habilidades
+- 👀Atualmente sou desenvolvedora frontend Sinta-se à vontade para explorar meus repositórios e projetos.
+- Estou sempre aberto a colaborações e feedback. 👨‍💻✨
 - 📫  e-mail:alesy2007@gmail.com
 - linkedin:https://www.linkedin.com/in/devalessandrasantana/
   
