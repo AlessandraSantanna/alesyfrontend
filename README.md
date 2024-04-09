@@ -1,7 +1,7 @@
 
 - ## Olá! eu sou a Alessandra Santana
 
-- 👀Atualmente sou desenvolvedora frontend Sinta-se à vontade para explorar meus repositórios e projetos.
+- Atualmente sou desenvolvedora frontend Sinta-se à vontade para explorar meus repositórios e projetos.
 - Estou sempre aberto a colaborações e feedback. 👨‍💻✨
 - 📫  e-mail:alesy2007@gmail.com
 - linkedin:https://www.linkedin.com/in/devalessandrasantana/
