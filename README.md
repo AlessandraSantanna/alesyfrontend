@@ -3,7 +3,13 @@
 
 Iniciante em front-end  Trabalho no desenvolvimento da parte visual de um site ou aplicativo web. 
 
+- Estou sempre aberto a colaborações e feedback. 👨‍💻✨
+- 📫  e-mail:alesy2007@gmail.com
+- linkedin:https://www.linkedin.com/in/devalessandrasantana/
+  
 ## Aqui estão algumas das tarefas que tenho habilidades:
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alesyfrontend&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 HTML: Criar a estrutura básica de uma página web usando HyperText Markup Language (HTML). Isso inclui a organização dos elementos da página, como cabeçalhos, parágrafos, listas, links, imagens, etc.
 
@@ -19,11 +25,13 @@ JavaScript: Adicionar interatividade à página usando JavaScript. Isso pode inc
 <br> <br>
 <div> 
   
-- Estou sempre aberto a colaborações e feedback. 👨‍💻✨
-- 📫  e-mail:alesy2007@gmail.com
-- linkedin:https://www.linkedin.com/in/devalessandrasantana/
-  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+## 🛠 Redes Sociais
+
+![facebook](https://img.shields.io/badge/facebook-%235865f2.svg?style=for-the-badge&logo=facebook&logoColor=white)
+![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=black)
+![gmail](https://img.shields.io/badge/Gmail-d4836?style=for-the-badge&logo=gmail&logoColor=red)
+![linkedin](https://img.shields.io/badge/linkedin-%235865f2.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
