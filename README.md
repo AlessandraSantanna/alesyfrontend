@@ -25,7 +25,7 @@ JavaScript: Adicionar interatividade à página usando JavaScript. Isso pode inc
 <br> <br>
 <div> 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesyfrontend&show_icons=true&theme=transparent)
 ## 🛠 Redes Sociais
 
 ![facebook](https://img.shields.io/badge/facebook-%235865f2.svg?style=for-the-badge&logo=facebook&logoColor=white)
