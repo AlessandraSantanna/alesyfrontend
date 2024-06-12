@@ -1,7 +1,9 @@
 
 # Olá! Sou a Alessandra Santana ![Logo](https://www.tomethiago.com.br/assets/computer.svg)
 
-Iniciante em front-end  Trabalho no desenvolvimento da parte visual de um site ou aplicativo web. 
+👨‍💻 Eu sou uma Desenvolvedora [Front-End| Back-End| Fullstack]
+
+👨‍💻Estudo [Desenvolvimento de Software Fullstack com foco em Front-End|@ [DevClub|Curso]
 
 - Estou sempre aberto a colaborações e feedback. 👨‍💻✨
 - 📫  e-mail:alesy2007@gmail.com
