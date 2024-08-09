@@ -1,25 +1,29 @@
 
 # Olá! Sou a Alessandra Santana ![Logo](https://www.tomethiago.com.br/assets/computer.svg)
 
-👨‍💻 Eu sou uma Desenvolvedora [Front-End| Back-End| Fullstack]
+💻 Eu sou uma DesenvolvedoraFrontEnd <br>
+💻 Estudo Desenvolvimento de Software Fullstack com foco em Front-End <br>
 
-👨‍💻Estudo [Desenvolvimento de Software Fullstack com foco em Front-End|@ [DevClub|Curso]
 
-- Estou sempre aberto a colaborações e feedback. 👨‍💻✨
+ Tenho paixão por transformar linhas de código em soluções inovadoras e funcionais. Com habilidades sólidas em programação Front End, estou sempre ansiosa para aprender e dominar novas tecnologias.
+
+💡 Sou uma solucionadora de problemas criativa e colaborativa, com excelentes habilidades de comunicação e trabalho em equipe. Acredito no poder da colaboração para alcançar resultados excepcionais.
+
 - 📫  e-mail:alesy2007@gmail.com
 - linkedin:https://www.linkedin.com/in/devalessandrasantana/
   
 ## Aqui estão algumas das minhas habilidades:
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesyfrontend&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alesyfrontend&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-HTML: Criar a estrutura básica de uma página web usando HyperText Markup Language (HTML). Isso inclui a organização dos elementos da página, como cabeçalhos, parágrafos, listas, links, imagens, etc.
 
-CSS: Estilizar a página usando Cascading Style Sheets (CSS). Isso envolve definir cores, fontes, tamanhos e posicionamento de elementos para tornar a página visualmente atraente e fácil de usar.
 
-JavaScript: Adicionar interatividade à página usando JavaScript. Isso pode incluir a criação de menus dropdown, validação de formulários, animações, etc.
 
-Java: Linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si.
+
+
+
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,8 +33,10 @@ Java: Linguagem multiplataforma, orientada a objetos e centrada em rede que pode
 </div>
 <br> <br>
 <div> 
+
+
+
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesyfrontend&show_icons=true&theme=transparent)
 ## 🛠 Redes Sociais
 
 ![facebook](https://img.shields.io/badge/facebook-%235865f2.svg?style=for-the-badge&logo=facebook&logoColor=white)
